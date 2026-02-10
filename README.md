@@ -8,11 +8,13 @@ A console based Python implementation of the "Random Sentences Generator".
 
 The **Generator** is based on the following __model__:
 - [Sentence] = Who + Action + Details.
-  - **Who** = Name | Name from Place
+   - **Who** = Name | Name from Place
      - Names = {Peter, Michell, Jane, Steve,...}
      - Places = {Sofia, London, New York, Germany,...}
-  - **Action** = Verb + Noun | Adverbs + Verb + Noun
-     - 
+   - **Action** = Verb + Noun | Adverbs + Verb + Noun
+     - Verbs = {eats, holds, sees, plays with, brings,...}
+     - Nouns = {stones, cake, apple, laptop, bikes,...}
+     - Adverbs = {slowly, diligently, warmly, sadly, "rapidly}
 
 
 
