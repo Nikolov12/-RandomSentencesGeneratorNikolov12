@@ -25,6 +25,9 @@ The **Generator** is based on the following __model__:
 
 <img width="481" height="170" alt="Screenshot 2026-02-10 152654" src="https://github.com/user-attachments/assets/f48b1b87-399a-4590-8347-0f5ef14b7f1d"/>
 
+# Live Demo
+You can play the game directly in your web browser here:
+
 
 
 
