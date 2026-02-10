@@ -19,7 +19,7 @@ The **Generator** is based on the following __model__:
 
 # Link to the Source Code
 
-[Source Code]
+[Source Code](Random_Sentences_Generator.py)
 
 
 
