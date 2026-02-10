@@ -6,4 +6,12 @@ A console based Python implementation of the "Random Sentences Generator".
 
 # Solutions
 
+The **Generator** is based on the following __model__:
+- [Sentence] = Who + Action + Details.
+  - Who = Name | Name from Place
+     - Names = {Peter, Michell, Jane, Steve,...}
+     - Places = {Sofia, London, New York, Germany,...}
+     - 
+
+
 
