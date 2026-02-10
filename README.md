@@ -14,7 +14,10 @@ The **Generator** is based on the following __model__:
    - **Action** = Verb + Noun | Adverbs + Verb + Noun
      - Verbs = {eats, holds, sees, plays with, brings,...}
      - Nouns = {stones, cake, apple, laptop, bikes,...}
-     - Adverbs = {slowly, diligently, warmly, sadly, "rapidly}
+     - Adverbs = {slowly, diligently, warmly, sadly, rapidly,...}
+   - **Details** = (near the river, at home, in the park)
+
+# Link to the Source Code
 
 
 
